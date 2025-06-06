@@ -4,3 +4,4 @@ data/processed/
 dashboards/
 __pycache__/
 *.pyc
+*.DS_Store
