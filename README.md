@@ -1,4 +1,4 @@
-I have built this dta pipeline to try and answer the following question:
+I have built this data pipeline to try and answer the following question:
 
 Can we statistically validate whether Reddit sentiment moves crypto markets, or if it merely echoes price swings?
 
