@@ -3,8 +3,8 @@ I have built this dta pipeline to try and answer the following question:
 Can we statistically validate whether Reddit sentiment moves crypto markets, or if it merely echoes price swings?
 
 What I did /n
-Pulled hourly BTC & ETH prices from the CoinGecko API /n
-Scraped the newest r/Cryptocurrency comments via PRAW /n
+Pulled hourly BTC & ETH prices from the CoinGecko API \n
+Scraped the newest r/Cryptocurrency comments via PRAW \n
 Ran VADER sentiment analysis on each comment /n
 Merged price + sentiment into one tidy time series /n
 displayed the results in Tableau /n
