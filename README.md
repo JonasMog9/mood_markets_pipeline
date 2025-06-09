@@ -20,7 +20,7 @@ Early takeaways:
 So far, price jumps tend to lead positive sentiment by about an hour, suggesting Redditors talk after the market moves, however the dataset is still small
 
 Next steps:
-I’m automating the pipeline (cron/loop), collecting weeks of data, and will compute rolling correlation & lag analysis to nail down causality
+I’m automating the pipeline, collecting weeks of data and upgrading the final tableau dashboard
 
 Why it matters:
 In data analytics & finance, understanding the lead/lag between social chatter and market action can power better trading signals and sentiment-driven dashboards
