@@ -6,7 +6,7 @@ What I did:
 
 Pulled hourly BTC & ETH prices from the CoinGecko API 
 
-Scraped the newest r/Cryptocurrency comments via PRAW 
+Scraped the newest Reddit r/Cryptocurrency comments via PRAW 
 
 Ran VADER sentiment analysis on each comment 
 
