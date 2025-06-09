@@ -1,6 +1,6 @@
 .env
-data/raw/
-data/processed/
+
+
 dashboards/
 __pycache__/
 *.pyc
